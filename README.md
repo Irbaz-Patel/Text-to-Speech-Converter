@@ -4,3 +4,12 @@
 A simple Text-to-Speech (TTS) project created using HTML, CSS, and JavaScript. This project converts written text into spoken words, providing a user-friendly interface for generating speech from text.
 
 📸Project Screenshots:
+![Screenshot (1)](https://github.com/Irbaz-Patel/Text-to-Speech-Converter/assets/125855032/d691bba2-8f55-4fca-8203-95a053a105d8)
+
+🛠️ Installation Steps:
+
+1.git clone https://github.com/your-username/news-api-react.git
+
+2.cd news-api-react
+
+3.npm install
