@@ -8,8 +8,8 @@ A simple Text-to-Speech (TTS) project created using HTML, CSS, and JavaScript. T
 
 🛠️ Installation Steps:
 
-1.git clone https://github.com/your-username/news-api-react.git
+1.git clone https://github.com/your-username/Text-to-Speech-Converter.git
 
-2.cd news-api-react
+2.cd Text-to-Speech-Converter
 
 3.npm install
